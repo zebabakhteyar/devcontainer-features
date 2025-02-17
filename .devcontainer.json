@@ -1,7 +1,7 @@
 {
     "image": "mcr.microsoft.com/devcontainers/javascript-node:0-18",
     "customizations": {
-        "vscode": {
+        ""ghcr.io/devcontainers/features/aws-cli:1": {}
             "settings": {
                 "json.schemas": [
                     {
@@ -13,7 +13,7 @@
                 ]
             },
             "extensions": [
-                "mads-hartmann.bash-ide-vscode"
+                "mads-hartmann.bash-ide-"ghcr.io/juan-ayala/devcontainer-features/aem-sdk:1": {}
             ]
         }
     },
